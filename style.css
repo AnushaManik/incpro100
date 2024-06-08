@@ -1,0 +1,39 @@
+#start-btn
+{
+    width: 80px;
+    border-radius: 40%;
+    background-color: #7fd809;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+
+body{
+    background: linear-gradient(#06b04f 0%, #f2eb0f 100%);
+}
+img:hover{
+    border-radius: 140px;
+    
+}
+img{
+    
+    border: 5px solid #33323b;
+    box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 5);
+    
+}
+
+.form-group{
+    color: darkgreen;
+}
+#textbox{
+    width: 250px;
+    height: 40px;
+}
